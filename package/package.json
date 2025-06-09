@@ -1,0 +1,27 @@
+{
+  "name": "fmus-motion",
+  "version": "0.0.1",
+  "description": "Delightful animation utilities for Framer Motion",
+  "main": "index.js",
+  "module": "index.esm.js",
+  "types": "index.d.ts",
+  "type": "module",
+  "sideEffects": false,
+  "keywords": [
+    "react",
+    "animation",
+    "framer-motion",
+    "motion",
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "framer-motion": ">=4.0.0",
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "dependencies": {
+    "react-intersection-observer": "^9.16.0"
+  }
+}

@@ -1,0 +1,54 @@
+# Dependency directories
+node_modules/
+
+# Build / distribution files
+dist/
+build/
+*.tsbuildinfo
+
+# Package files
+fmus-motion-*.tgz
+
+# IDE / editor specific
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Cache
+.eslintcache
+
+# Testing
+/coverage
+
+# Production
+/lib
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+/_legacy/

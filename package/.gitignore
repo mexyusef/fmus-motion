@@ -1,0 +1,31 @@
+# Dependency directories
+node_modules/
+
+# Build / distribution files
+dist/
+build/
+*.tsbuildinfo
+
+# IDE / editor specific
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Cache
+.eslintcache
